@@ -22,7 +22,9 @@ class Person
     @age = 12
   end
 
-
+  def setting_name
+    @name = 'Billions'
+  end
 
 
 
