@@ -18,7 +18,9 @@ class Person
     puts @id
   end
 
-
+  def setting_age
+    @age = 12
+  end
 
 
 
