@@ -6,7 +6,9 @@ class Person
     @parent_permission = parent_permission
   end
 
-
+  def getting_age
+    puts @age
+  end
 
 
 
