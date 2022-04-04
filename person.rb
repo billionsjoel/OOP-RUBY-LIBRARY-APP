@@ -14,7 +14,9 @@ class Person
     puts @name
   end
 
-
+  def getting_id
+    puts @id
+  end
 
 
 
