@@ -10,7 +10,9 @@ class Person
     puts @age
   end
 
-
+  def getting_name
+    puts @name
+  end
 
 
 
