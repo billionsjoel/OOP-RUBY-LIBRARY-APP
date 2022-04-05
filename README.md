@@ -21,7 +21,8 @@ Clone this repository by running `https://github.com/billionsjoel/OOP-RUBY-LIBRA
 Navigate to the repository by running `cd OOP-RUBY-LIBRARY-APP`.
 
 ## Installation
-Clone the repo and run `bundle install` in the command line to install the dependencies, then run `irb`
+- Clone the repo and run `bundle install` in the command line to install the dependencies.
+- run `irb`
 
 ## Author
 
