@@ -7,15 +7,15 @@ class Person
   end
 
   def getting_age
-    puts @age
+    @age
   end
 
   def getting_name
-    puts @name
+    @name
   end
 
   def getting_id
-    puts @id
+    @id
   end
 
   def setting_age
