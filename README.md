@@ -1,7 +1,7 @@
 # OOP-RUBY-LIBRARY-APP
 In this project, I will start building my school library app. In this initial step, i will implement the classes to represent students and teachers.
 
-![screenshot](https://appscreenshot.png)
+![screenshot](./appscreenshot.png)
 
 ## Learning objectives
 
@@ -21,7 +21,7 @@ Clone this repository by running `https://github.com/billionsjoel/OOP-RUBY-LIBRA
 Navigate to the repository by running `cd OOP-RUBY-LIBRARY-APP`.
 
 ## Installation
-Clone the repo and run `bundle install` in the command line to install the dependencies, then run `console.rb`
+Clone the repo and run `bundle install` in the command line to install the dependencies, then run `irb`
 
 ## Author
 
