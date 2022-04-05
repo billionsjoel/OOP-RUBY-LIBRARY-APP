@@ -1,7 +1,7 @@
 # OOP-RUBY-LIBRARY-APP
 In this project, I will start building my school library app. In this initial step, i will implement the classes to represent students and teachers.
 
-![screenshot](https://appscreenshot.png)
+![screenshot](appscreenshot.png)
 
 ## Learning objectives
 
