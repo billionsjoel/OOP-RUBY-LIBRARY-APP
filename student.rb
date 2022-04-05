@@ -5,4 +5,8 @@ class student < Person
   super(age, name, parent_permission)
   @clasroom = clasroom
   end
+
+  def play_hooky
+    "¯\(ツ)/¯"
+  end
 end
