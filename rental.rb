@@ -10,4 +10,8 @@ class Rental
     @person = person
     person.rentals.push(self)
   end
+
+  def get_rental
+    "#{@person.name} #{@book.title} #{date}"
+  end
 end
