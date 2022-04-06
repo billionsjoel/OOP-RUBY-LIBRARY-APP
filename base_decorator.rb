@@ -1,4 +1,8 @@
 require_relative './nameable'
 
-class Base_decorator < Nameable
+class BaseDecorator < Nameable
+  def initialize( nameable )
+    @nameable = nameable
+    super()
+  end
 end
