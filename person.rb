@@ -20,6 +20,10 @@ class Person < Nameable
     @name
   end
 
+  def add_rental(book, date)
+    Rental.new(book, self, date)
+  end
+
   private
 
   def of_age?
