@@ -22,7 +22,7 @@ end
 
 def add_person(app)
   puts 'Do you want to register a student (1) or a teacher (2)? [1 - student, 2 - teacher]'
-  role = gets.chomp.to_i
+
   print 'Name: '
   name = gets.chomp
   print 'Age: '
